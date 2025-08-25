@@ -1,2 +1,2 @@
-# lab-conflictos
-Esta línea fue agregada en feature-a
+#lab-conflictos
+Esta línea fue agregada en feature-a y feature-b
